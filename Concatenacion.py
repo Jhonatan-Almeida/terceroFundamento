@@ -1,4 +1,4 @@
-texto = "Hola Jhontana tu tienes "
+texto = "Hola Jhonathan tu tienes "
 anios = str(45)
 texto2 = " años de edad."
 

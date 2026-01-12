@@ -37,7 +37,6 @@ Carlos = Persona(
     estatura="1.85",
     peso=100,
     contestura="Fuerte",
-    
     discapacidad=True
 )
 
